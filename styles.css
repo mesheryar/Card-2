@@ -1,0 +1,30 @@
+.card{
+width: 35%;
+text-align: center;
+margin-left: 60vh;
+border: 1px solid rgb(2, 18, 87);
+padding:20px;
+border-radius: 10px;
+text-transform: capitalize;
+
+
+}
+.cardimg  img{
+    height: 300px;
+    width: 100%;
+}
+.card a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(21, 241, 21);
+    font-weight: bold;
+}
+.card p{
+    color:aqua;
+}
+.card hr{
+    width: 50%;
+}
+.card h1{
+    color:red;
+}
